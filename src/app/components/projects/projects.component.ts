@@ -10,64 +10,31 @@ import { environment } from 'src/environments/environment';
 export class ProjectsComponent {
   firstPoject: Tools[] = [
     {
-      name: 'Java',
-    },
-    {
       name: 'Spring boot',
     },
     {
       name: 'Angular',
     },
     {
-      name: 'Strapi',
+      name: 'MySQL',
     },
     {
       name: 'AWS',
-    },
-    {
-      name: 'Docker',
-    },
-    {
-      name: 'GIT',
-    },
-    {
-      name: 'Gitlab',
     },
   ];
 
   secoundProject: Tools[] = [
     {
-      name: 'Java',
-    },
-    {
       name: 'Spring boot',
     },
     {
-      name: 'React',
+      name: 'React js',
     },
     {
-      name: 'Jhipster',
+      name: 'MySQL',
     },
     {
-      name: 'Redis',
-    },
-    {
-      name: 'ActiveMQ',
-    },
-    {
-      name: 'Apache Camel',
-    },
-    {
-      name: 'Docker',
-    },
-    {
-      name: 'Grafana',
-    },
-    {
-      name: 'GIT',
-    },
-    {
-      name: 'GITHub',
+      name: 'Github',
     },
   ];
 
@@ -85,7 +52,7 @@ export class ProjectsComponent {
       name: 'Angular',
     },
     {
-      name: 'Aungular Material',
+      name: 'Angular Material',
     },
   ];
 
